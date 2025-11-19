@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Tooth Shade Analyzer</string>
+    
+    <!-- Home Screen -->
+    <string name="title_home">Tooth Shade Analyzer</string>
+    <string name="subtitle_home">Analyze tooth color with AI precision</string>
+    <string name="btn_take_photo">Take a Photo</string>
+    <string name="btn_upload_gallery">Upload from Gallery</string>
+    
+    <!-- Processing Screen -->
+    <string name="title_processing">Analyzing</string>
+    <string name="msg_analyzing">Analyzing tooth shade…</string>
+    <string name="msg_processing">Processing your image</string>
+    <string name="msg_please_wait">Please wait</string>
+    
+    <!-- Result Screen -->
+    <string name="title_result">Result</string>
+    <string name="btn_analyze_another">Analyze Another</string>
+    <string name="btn_share_result">Share Result</string>
+    <string name="shade_label">Shade</string>
+    <string name="confidence_label">Confidence</string>
+    
+    <!-- Shade Descriptions -->
+    <string name="shade_a_desc">Natural light color</string>
+    <string name="shade_b_desc">Yellowish natural color</string>
+    <string name="shade_c_desc">Grayish natural color</string>
+    <string name="shade_d_desc">Reddish brown color</string>
+    
+    <!-- Permissions -->
+    <string name="permission_camera_rationale">Camera permission is needed to capture tooth images</string>
+    <string name="permission_storage_rationale">Storage permission is needed to select images from gallery</string>
+    <string name="permission_denied">Permission denied. Please enable it in settings.</string>
+    
+    <!-- Errors -->
+    <string name="error_loading_model">Failed to load analysis model</string>
+    <string name="error_processing_image">Failed to process image</string>
+    <string name="error_no_image">No image selected</string>
+</resources>
