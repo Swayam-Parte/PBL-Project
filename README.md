@@ -317,19 +317,10 @@ To replace the model with a new version:
 3. Replace file in `app/src/main/assets/tooth_shade_model.onnx`
 4. Rebuild and test app
 
-## 📝 License
-
-[Add your license information here]
-
 ## 👥 Authors
 
-[Add your name/team information here]
+Swayam Parte
 
-## 🤝 Contributing
-
-[Add contribution guidelines if applicable]
-
----
 
 **Built with:**
 - Kotlin & Jetpack Compose
