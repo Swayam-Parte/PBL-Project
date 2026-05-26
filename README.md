@@ -1,4 +1,4 @@
-# Smile Spec - Tooth Shade Analyzer
+# Smile Spectrum - Tooth Shade Analyzer
 
 An Android application that uses machine learning to classify tooth shades into categories (A, B, C, D) using an ONNX model. The app runs **fully offline** with no network dependencies.
 
